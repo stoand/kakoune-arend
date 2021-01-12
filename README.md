@@ -1,6 +1,6 @@
 # Kakoune Arend
 
-Unofficial syntax highlighting for the [Arend Language](https://arend-lang.github.io/about/) for the Kakoune editor.
+Unofficial syntax highlighting for the [Arend Language](https://arend-lang.github.io/documentation/language-reference/lexical-structure) for the Kakoune editor.
 
 Contributions are welcome.
 
